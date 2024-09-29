@@ -9,7 +9,7 @@ int main(){
     cin>>age;
     cout<<"age is: "<<age;
     
-    cout<<"\nisee";
+    cout<<"\ni see";
     cout<<"\n\n";
     return 0;
 }
