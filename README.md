@@ -1,2 +1,2 @@
 # 1st_repo
-try pushh
+Hey, this my First idk what
