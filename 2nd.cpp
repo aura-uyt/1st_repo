@@ -5,7 +5,7 @@ int main(){
     cout<<"\nRepo from Github app\n";
     cout<<"Enter your age: ";               //changed ur to your
     cin>>age;
-    cout<<"age is: "<<age;
+    cout<<"age is a function of time: "<<age;
     cout<<"\n";
 
     
